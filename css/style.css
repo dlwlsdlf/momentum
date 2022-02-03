@@ -1,0 +1,12 @@
+@import "main.css";
+@import "location.css";
+@import "todo.css";
+@import "center.css";
+@import "clock.css";
+@import "weather.css";
+@import  url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+.hidden{
+    display: none;
+}
+
