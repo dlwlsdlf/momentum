@@ -10,7 +10,7 @@
 3. JavaScript
 
 ## 소개
-
+<img width="80%" src="https://user-images.githubusercontent.com/51228787/152629039-6d505b23-d298-406f-a4d1-e1d30658ae5f.png"/>
 
 ## 구현 기능
 
